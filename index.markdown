@@ -5,6 +5,8 @@ title: "#loseit link dump"
 # Link dumping ground
 This is a (hopefully) temporary holding place for useful links.  If you add one, please put a *specific* note about its content.
 
+Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/loseitdocs/) and submit a pull request, or create a [gist containing the markdown for your addition](https://gist.github.com/micmcg/976172), and bother someone on the IRC channel with a link to it.
+
 * [USDA Dietary Reference Intakes](https://fnic.nal.usda.gov/dietary-guidance/dri-nutrient-reports/energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein) - 2005 compilation of information on macronutrition.
     * Reference for minimum intake of each macro, literature on under-reporting eating, TDEE estimation, and much much more
 
@@ -22,4 +24,8 @@ This is a (hopefully) temporary holding place for useful links.  If you add one,
 
 * [Relations of Thyroid Function to Body Weight...](http://archinte.jamanetwork.com/article.aspx?articleid=414105) - *At baseline, adjusted mean weight increased progressively from **64.5 to 70.2 kg** in the lowest to highest TSH concentration quartiles in women (P < .001 for trend), and from **82.8...to 85.6 kg**...in men (P = .007 for trend).*
 
-* [Effects of Running and Walking on Osteoarthritis and Hip Replacement Risk](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756679/) -
+* **Exercise**
+    * [Effects of Running and Walking on Osteoarthritis and Hip Replacement Risk](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756679/) - **large** review of runners and outcomes for OA/hip replacement.  *"Whereas other exercise increased OA and hip replacement risk, running significantly reduced their risk due, in part, to running’s association with lower BMI."*
+    * [Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/24065013) - Study of weight loss outcomes on joint health, in particular with quantitative results on joint loading.
+
+* [Self-weighing in weight management: a systematic literature review](http://www.ncbi.nlm.nih.gov/pubmed/25521523) - Review of 17 longitudinal studies from 1995-2015, focusing on self-monitoring.  *"The findings from prospective, longitudinal studies provide evidence that regular self-weighing has been associated with weight loss and not with negative psychological outcomes."*  See also [Self-Monitoring in Weight Loss: A Systematic Review of the Literature](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/).
