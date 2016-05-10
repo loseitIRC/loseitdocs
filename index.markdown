@@ -33,3 +33,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * [Can’t wait to lose weight? Characterizing temporal discounting parameters for weight-loss](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277731/) - Study of tendency of overweight subjects to value small weight losses over a short term more than larger weight losses over a long term (i.e. "lose X lbs today, or Y lbs over Z weeks").  *'...people who express a desire to lose less weight sooner, showed stronger beliefs that obesity is under an individual’s control and obesity is due to a lack of “willpower.”'*
 
 * [Seinfeld's "Don't Break the Chain!" philosophy](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+
+* [Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults](http://www.ncbi.nlm.nih.gov/pubmed/15883556) - a review of predictive equations for BMR/RMR.  *"The Mifflin-St Jeor equation is more likely than the other equations tested to estimate RMR to within 10% of that measured"*
