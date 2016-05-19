@@ -37,3 +37,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * [Seinfeld's "Don't Break the Chain!" philosophy](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 
 * [Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults](http://www.ncbi.nlm.nih.gov/pubmed/15883556) - a review of predictive equations for BMR/RMR.  *"The Mifflin-St Jeor equation is more likely than the other equations tested to estimate RMR to within 10% of that measured"*
+
+* ["You are eating more than you think"](https://www.youtube.com/watch?v=vjKPIcI51lU) - video demonstration of the large estimation error that is possible when not using a food scale 
