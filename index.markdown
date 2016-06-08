@@ -38,8 +38,10 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 
 * [Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults](http://www.ncbi.nlm.nih.gov/pubmed/15883556) - a review of predictive equations for BMR/RMR.  *"The Mifflin-St Jeor equation is more likely than the other equations tested to estimate RMR to within 10% of that measured"*
 
-* ["You are eating more than you think"](https://www.youtube.com/watch?v=vjKPIcI51lU) - video demonstration of the large estimation error that is possible when not using a food scale 
+* ["You are eating more than you think"](https://www.youtube.com/watch?v=vjKPIcI51lU) - video demonstration of the large estimation error that is possible when not using a food scale
 
 * ["Which Diet Will Help You Lose The Most Weight?"](https://fivethirtyeight.com/features/which-diet-will-help-you-lose-the-most-weight/) - fivethirtyeight summary of [JAMA article](http://jama.jamanetwork.com/article.aspx?articleid=1900510), which concludes *"Weight loss differences between individual named diets were small. This supports the practice of recommending any diet that a patient will adhere to in order to lose weight."*
 
 * ["The Effects of Exercise Training in Addition to Energy Restriction on Functional Capacities and Body Composition in Obese Adults during Weight Loss"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3884087/) - Large meta-analysis of multiple studies, see **Table 6** for a summary of body composition changes across each type, showing that **lean mass decreases with caloric restriction, i.e. eating a deficit necessarily causes muscle loss to some extent**.  Contains supporting evidence for exercise regimens helping reduce the lean tissue loss.
+
+* ["Can you actually break your metabolism?"](https://www.reddit.com/r/fatlogic/comments/2i6oa3/can_you_actually_break_your_metabolism/ckzboth) - /u/tahlyn responds to this inquiry with MANY excellent references for supporting evidence that underestimating intake is the primary cause of apparently anomalous metabolisms.
