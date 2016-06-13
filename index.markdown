@@ -47,3 +47,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * ["Can you actually break your metabolism?"](https://www.reddit.com/r/fatlogic/comments/2i6oa3/can_you_actually_break_your_metabolism/ckzboth) - /u/tahlyn responds to this inquiry with MANY excellent references for supporting evidence that underestimating intake is the primary cause of apparently anomalous metabolisms.
 
 * ["Energy intake and energy expenditure: a controlled study comparing dietitians and non-dietitians."](http://www.ncbi.nlm.nih.gov/pubmed/12396160) - small (N=20) study comparing 7-day food records of a group of dietitians against a group of non-dietitians.  *"The dietitians underreported their energy intake obtained from the food records by an average of 223 +/- 116 kcal/day."*
+
+* ["How I Recovered From Binge Eating Disorder (Guide)"](https://www.reddit.com/r/loseit/comments/4iqe36/how_i_recovered_from_binge_eating_disorder_guide/) - Reddit user /u/MBDDigital shares some tips and philosophy for tackling binge/emotional eating.
