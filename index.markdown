@@ -27,6 +27,7 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * **Exercise**
     * [Effects of Running and Walking on Osteoarthritis and Hip Replacement Risk](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756679/) - **large** review of runners and outcomes for OA/hip replacement.  *"Whereas other exercise increased OA and hip replacement risk, running significantly reduced their risk due, in part, to running’s association with lower BMI."*
     * [Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/24065013) - Study of weight loss outcomes on joint health, in particular with quantitative results on joint loading.
+    * [The Real Facts about HRMs and Calories](http://www.myfitnesspal.com/blog/Azdak/view/the-real-facts-about-hrms-and-calories-what-you-need-to-know-before-purchasing-an-hrm-or-using-one-21472) - Information about HRMs and how they work with calorie counting.
 
 * [Self-weighing in weight management: a systematic literature review](http://www.ncbi.nlm.nih.gov/pubmed/25521523) - Review of 17 longitudinal studies from 1995-2015, focusing on self-monitoring.  *"The findings from prospective, longitudinal studies provide evidence that regular self-weighing has been associated with weight loss and not with negative psychological outcomes."*  See also [Self-Monitoring in Weight Loss: A Systematic Review of the Literature](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/).
 
