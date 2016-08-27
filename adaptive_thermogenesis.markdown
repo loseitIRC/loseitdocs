@@ -1,3 +1,8 @@
+---
+layout: page
+title: "notes on adaptive thermogenesis"
+---
+
 ## Notes on [adaptive thermogenesis](http://www.medscape.com/viewarticle/567126_2)
 
 This file contains some research notes on the somewhat-controversial subject of whether or not weight loss causes a drop in resting energy expenditure.  Until incorporated into the main notes, everything here should be taken as the stream of consciousness that it is.
