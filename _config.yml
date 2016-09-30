@@ -1,15 +1,12 @@
 # Site settings
 title: "#loseit notes"
-email: your-email@domain.com
 description: >
   Some notes for the #loseit IRC community
 baseurl: "/loseitdocs"
 url: "http://loseitirc.github.io/loseitdocs/"
 fixedNav: 'true' # true or false
-theme: blue # green, blue, orange, purple, grey
+themeColor: blue # green, blue, orange, purple, grey
 githubUsername: loseitIRC
-dribbbleUsername:
-codepenUsername:
 
 # Build settings
 permalink: /:year/:month/:title
