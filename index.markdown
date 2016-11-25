@@ -50,3 +50,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * ["Energy intake and energy expenditure: a controlled study comparing dietitians and non-dietitians."](http://www.ncbi.nlm.nih.gov/pubmed/12396160) - small (N=20) study comparing 7-day food records of a group of dietitians against a group of non-dietitians.  *"The dietitians underreported their energy intake obtained from the food records by an average of 223 +/- 116 kcal/day."*
 
 * ["How I Recovered From Binge Eating Disorder (Guide)"](https://www.reddit.com/r/loseit/comments/4iqe36/how_i_recovered_from_binge_eating_disorder_guide/) - Reddit user /u/MBDDigital shares some tips and philosophy for tackling binge/emotional eating.
+
+* [Walking doesn't burn enough calories to bother counting](https://www.ncbi.nlm.nih.gov/pubmed/15570150)
