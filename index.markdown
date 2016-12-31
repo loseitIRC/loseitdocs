@@ -52,3 +52,9 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * ["How I Recovered From Binge Eating Disorder (Guide)"](https://www.reddit.com/r/loseit/comments/4iqe36/how_i_recovered_from_binge_eating_disorder_guide/) - Reddit user /u/MBDDigital shares some tips and philosophy for tackling binge/emotional eating.
 
 * [Walking doesn't burn enough calories to bother counting](https://www.ncbi.nlm.nih.gov/pubmed/15570150)
+
+* Neither does most exercise: 
+    * "We...examined the effects of exercise training upon REE during the rehabilitation of severely burned pediatric patients...Exercise training...[[did not cause] exaberation of post-burn hypermetabolism."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856323/) 
+    * ["*Results indicated that exercise modality had no effect on REE.*"](https://www.ncbi.nlm.nih.gov/pubmed/7882110)
+
+* Long-term metabolic activity is not substantially affected by exercise[*"No change in physical activity energy expenditure was found in any of the groups. These results suggest that endurance and resistance training does not chronically alter TEE"*](http://press.endocrine.org/doi/abs/10.1210/jcem.87.3.8282)
