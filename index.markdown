@@ -7,6 +7,8 @@ This is a (hopefully) temporary holding place for useful links.  If you add one,
 
 Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/loseitdocs/) and submit a pull request, or create a [gist containing the markdown for your addition](https://gist.github.com/micmcg/976172), and bother someone on the IRC channel with a link to it.
 
+* [Body-mass index and all-cause mortality](https://www.ncbi.nlm.nih.gov/pubmed/27423262) - large (over 10M participants) study of the relationship between body mass index and mortality. *"All-cause mortality was minimal at [normal BMI] and increased significantly both just below this range...and throughout the overweight range...mortality increased approximately log-linearly with BMI"*
+
 * [USDA Dietary Reference Intakes](https://fnic.nal.usda.gov/dietary-guidance/dri-nutrient-reports/energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein) - 2005 compilation of information on macronutrition.
     * Reference for minimum intake of each macro, literature on under-reporting eating, TDEE estimation, and much much more
 
