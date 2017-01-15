@@ -60,3 +60,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
     * ["*Results indicated that exercise modality had no effect on REE.*"](https://www.ncbi.nlm.nih.gov/pubmed/7882110)
 
 * Long-term metabolic activity is not substantially affected by exercise[*"No change in physical activity energy expenditure was found in any of the groups. These results suggest that endurance and resistance training does not chronically alter TEE"*](http://press.endocrine.org/doi/abs/10.1210/jcem.87.3.8282)
+
+* [Meal frequency and energy balance](https://www.ncbi.nlm.nih.gov/pubmed/9155494) - *"We conclude that there is robust evidence from several independent laboratories...[that] feeding frequency has no significant impact on the rate of weight loss during energy restriction."*  Also shows clear strong correlation between meal frequency and total daily intake.
