@@ -75,3 +75,4 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
   * *"flexible [food choices] predicts better long-term weight loss results (36), and flexible and rigid controls have been related to lower and higher body weights respectively (50)."*
   * *"Participating in a maintenance support group...[has] been related to better weight maintenance."*
   
+* [What predicts weight regain in a group of successful weight losers?](https://www.ncbi.nlm.nih.gov/pubmed/10224727) - *"this study shows that [NWCR] individuals who regain weight report marked decreases in physical activity...with no change in overall calorie intake"*
