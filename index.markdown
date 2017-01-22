@@ -68,3 +68,10 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * [Resistance weight training during caloric restriction enhances lean body weight maintenance](http://ajcn.nutrition.org/content/47/1/19.short) - *"Lean body weight (LBW) increased...for [diet with resistance training group] (0.43 kg) compared with [diet only]."* (should be noted that muscle mass will generally decrease on a deficit, but this suffices to show that resistance training greatly prevents how much muscle is lost)
 
 * [Influence of exercise training on physiological and performance changes with weight loss in men](https://www.ncbi.nlm.nih.gov/pubmed/10487375) - *"These data indicate that a weight-loss dietary regimen in conjunction with aerobic and resistance exercise prevents the normal decline in fat-free mass and muscular power"* Specifically, over the 12 weeks, the diet+endurance+strength group lost **only 0.33 kg of FFM**, and the diet-only and diet+endurance group lost **2.96 kg and 2.00 kg**, respectively.
+
+* [Who succeeds in maintaining weight loss? A conceptual review of factors associated with weight loss maintenance and weight regain.](https://www.ncbi.nlm.nih.gov/pubmed/15655039) (full text available [on ResearchGate](https://www.researchgate.net/publication/8076499_Who_succeeds_in_maintaining_weight_loss_A_conceptual_review_of_factors_associated_with_weight_loss_maintenance_and_weight_regain)) - Massive literature review covering common patterns in subjects who succeed/fail in long-term weight control.
+  * *"Weight maintenance seems to require an ongoing adherence to weight-related behaviours."*
+  * *"In weight regainers, self-monitoring has been shown to decline with time"*
+  * *"flexible [food choices] predicts better long-term weight loss results (36), and flexible and rigid controls have been related to lower and higher body weights respectively (50)."*
+  * *"Participating in a maintenance support group...[has] been related to better weight maintenance."*
+  
