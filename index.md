@@ -76,3 +76,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
   * *"Participating in a maintenance support group...[has] been related to better weight maintenance."*
   
 * [What predicts weight regain in a group of successful weight losers?](https://www.ncbi.nlm.nih.gov/pubmed/10224727) - *"this study shows that [NWCR] individuals who regain weight report marked decreases in physical activity...with no change in overall calorie intake"*
+
+* [A High-Protein Diet With Resistance Exercise Training Improves Weight Loss and Body Composition in Overweight and Obese Patients With Type 2 Diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2858200/) - *"Overall, more fat mass loss occurred in participants consuming the [high protein] diet...compared with the [control] diet"* (Specifically, a protein intake of around 0.6 g/lb was used in this study)
