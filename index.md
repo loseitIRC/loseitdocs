@@ -78,3 +78,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * [What predicts weight regain in a group of successful weight losers?](https://www.ncbi.nlm.nih.gov/pubmed/10224727) - *"this study shows that [NWCR] individuals who regain weight report marked decreases in physical activity...with no change in overall calorie intake"*
 
 * [A High-Protein Diet With Resistance Exercise Training Improves Weight Loss and Body Composition in Overweight and Obese Patients With Type 2 Diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2858200/) - *"Overall, more fat mass loss occurred in participants consuming the [high protein] diet...compared with the [control] diet"* (Specifically, a protein intake of around 0.6 g/lb was used in this study)
+
+* [Weight loss and growth velocity in obese children after very low calorie diet, exercise, and behavior modification.](https://www.ncbi.nlm.nih.gov/pubmed/11071081) - *"The linear growth and growth velocity data in this [very low calorie intervention] study suggest that most male and female subjects **are able to sustain growth at a normal rate** for their chronological age, height age or both."*
