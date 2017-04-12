@@ -9,7 +9,7 @@ These questions are *often* asked in #loseit.  Only frequently asked things belo
   A: Eat fewer calories than you burn.  That's it!
 
 * Q: **How do I know how much to eat?**  
-  A: Calculate your [Total Daily Energy Expenditure (TDEE)](loseitirc.github.io/tdeecalc/), which estimates how much energy you burn on a typical day.  For every 500 cal/day you eat below this value, you lose about 1 lb/week (because there are 3500 calories in a pound of bodyfat).
+  A: Calculate your [Total Daily Energy Expenditure (TDEE)](http://loseitirc.github.io/tdeecalc/), which estimates how much energy you burn on a typical day.  For every 500 cal/day you eat below this value, you lose about 1 lb/week (because there are 3500 calories in a pound of bodyfat).
 
 * Q: **How do I know how much I am eating?**  
   A: Track your intake using a tracking system like [MyFitnessPal](http://www.myfitnesspal.com) and a [food scale](http://www.amazon.com/Scales-Measuring-Tools-Cooks-Gadgets/b?ie=UTF8&node=289787) to accurately measure what you're eating.  Many restaurants post nutritional information online, and for recipes, add up the calories in the ingredients and divide by number of servings.  When in doubt about the calorie content, overestimate!
