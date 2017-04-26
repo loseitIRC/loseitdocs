@@ -5,6 +5,8 @@ title: "#loseit link dump"
 # Link dumping ground
 This is a (hopefully) temporary holding place for useful links.  If you add one, please put a *specific* note about its content.
 
+Not used to reading published medical literature? It helps to be familiar with [study design and how the process works](http://www.vox.com/2015/1/5/7482871/types-of-study-design).
+
 Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/loseitdocs/) and submit a pull request, or create a [gist containing the markdown for your addition](https://gist.github.com/micmcg/976172), and bother someone on the IRC channel with a link to it.
 
 * [Body-mass index and all-cause mortality](https://www.ncbi.nlm.nih.gov/pubmed/27423262) - large (over 10M participants) study of the relationship between body mass index and mortality. *"All-cause mortality was minimal at [normal BMI] and increased significantly both just below this range...and throughout the overweight range...mortality increased approximately log-linearly with BMI"*
