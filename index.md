@@ -3,64 +3,70 @@ layout: page
 title: "#loseit link dump"
 ---
 # Link dumping ground
+
+<!-- 
+To make changes to this page, add a new list item (new line starting with *), 
+create an anchor <div> with an appropriate id (for linking)
+-->
+
 This is a (hopefully) temporary holding place for useful links.  If you add one, please put a *specific* note about its content.
 
 Not used to reading published medical literature? It helps to be familiar with [study design and how the process works](http://www.vox.com/2015/1/5/7482871/types-of-study-design).
 
 Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/loseitdocs/) and submit a pull request, or create a [gist containing the markdown for your addition](https://gist.github.com/micmcg/976172), and bother someone on the IRC channel with a link to it.
 
-* [Body-mass index and all-cause mortality](https://www.ncbi.nlm.nih.gov/pubmed/27423262) - large (over 10M participants) study of the relationship between body mass index and mortality. *"All-cause mortality was minimal at [normal BMI] and increased significantly both just below this range...and throughout the overweight range...mortality increased approximately log-linearly with BMI"*
+* <div class="anchor" id="BMI"></div> [Body-mass index and all-cause mortality](https://www.ncbi.nlm.nih.gov/pubmed/27423262) - large (over 10M participants) study of the relationship between body mass index and mortality. *"All-cause mortality was minimal at [normal BMI] and increased significantly both just below this range...and throughout the overweight range...mortality increased approximately log-linearly with BMI"*
 
-* [USDA Dietary Reference Intakes](https://www.nal.usda.gov/fnic/dri-nutrient-reports) - 2005 compilation of information on macronutrition.
+* <div class="anchor" id="DRI"></div> [USDA Dietary Reference Intakes](https://fnic.nal.usda.gov/dietary-guidance/dri-nutrient-reports/energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein) - 2005 compilation of information on macronutrition.
     * Reference for minimum intake of each macro, literature on under-reporting eating, TDEE estimation, and much much more
 
-* **Minimum Intake**
+* <div class="anchor" id="minintake"></div> **Minimum Intake**
     "Is there a minimum acceptable caloric intake?"
     * [Effects of alternate fasting or very low calorie diet and low calorie diet on metabolic syndrome in severely obese patients.](http://www.ncbi.nlm.nih.gov/pubmed/23935313) - a study of LC/VLC intervention in 64 obese patients with metabolic syndrome.  
     *"None of the patients had significant adverse effects."*
     * [The evolution of very-low-calorie diets: an update and meta-analysis.](http://www.ncbi.nlm.nih.gov/pubmed/16988070) - Large review of VLC studies and comparison to LC
 
-
-* **Loose skin**
+* <div class="anchor" id="looseskin"></div> **Loose skin**
     * [University of Pittsburgh Medical Center bariatric patient guide](http://www.upmc.com/Services/life-after-weight-loss/Documents/the-bariatric-patient-guide.pdf) - *"Predicting who is going to have problems with hanging skin after weight loss is hard to determine"*
     * [Assessment of Excess Skin and ... - University of Gothenburg Dept of Plastic Surgery](https://gupea.ub.gu.se/bitstream/2077/36740/3/gupea_2077_36740_3.pdf) - Review of prevalence of loose skin in post-bariatric patients, and outcome of abdominoplasty proceedures.
     * [Will I need reconstructive plastic surgery after weight-loss? (Obesity Action Coalition)](http://www.obesityaction.org/wp-content/uploads/PlasticSurgery.pdf) - *"The main factor determining skin recoil is the amount of stretch...the more weight you lose, the more likely you will [have loose skin]"*
 
-* [Relations of Thyroid Function to Body Weight...](http://archinte.jamanetwork.com/article.aspx?articleid=414105) - *At baseline, adjusted mean weight increased progressively from **64.5 to 70.2 kg** in the lowest to highest TSH concentration quartiles in women (P < .001 for trend), and from **82.8...to 85.6 kg**...in men (P = .007 for trend).*
+* <div class="anchor" id="thyroid"></div> [Relations of Thyroid Function to Body Weight...](http://archinte.jamanetwork.com/article.aspx?articleid=414105) - *At baseline, adjusted mean weight increased progressively from **64.5 to 70.2 kg** in the lowest to highest TSH concentration quartiles in women (P < .001 for trend), and from **82.8...to 85.6 kg**...in men (P = .007 for trend).*
 
-* **Exercise**
+* <div class="anchor" id="exercise"></div> **Exercise**
     * [Effects of Running and Walking on Osteoarthritis and Hip Replacement Risk](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756679/) - **large** review of runners and outcomes for OA/hip replacement.  *"Whereas other exercise increased OA and hip replacement risk, running significantly reduced their risk due, in part, to running’s association with lower BMI."*
     * [Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis](http://www.ncbi.nlm.nih.gov/pubmed/24065013) - Study of weight loss outcomes on joint health, in particular with quantitative results on joint loading.
     * [The Real Facts about HRMs and Calories](http://www.myfitnesspal.com/blog/Azdak/view/the-real-facts-about-hrms-and-calories-what-you-need-to-know-before-purchasing-an-hrm-or-using-one-21472) - Information about HRMs and how they work with calorie counting.
 
-* [Self-weighing in weight management: a systematic literature review](http://www.ncbi.nlm.nih.gov/pubmed/25521523) - Review of 17 longitudinal studies from 1995-2015, focusing on self-monitoring.  *"The findings from prospective, longitudinal studies provide evidence that regular self-weighing has been associated with weight loss and not with negative psychological outcomes."*  See also [Self-Monitoring in Weight Loss: A Systematic Review of the Literature](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/).
+* <div class="anchor" id="weighingfeedback"></div> [Self-weighing in weight management: a systematic literature review](http://www.ncbi.nlm.nih.gov/pubmed/25521523) - Review of 17 longitudinal studies from 1995-2015, focusing on self-monitoring.  *"The findings from prospective, longitudinal studies provide evidence that regular self-weighing has been associated with weight loss and not with negative psychological outcomes."*  See also [Self-Monitoring in Weight Loss: A Systematic Review of the Literature](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268700/).
 
-* [Reduced dietary salt for the prevention of cardiovascular disease: a meta-analysis...](http://www.ncbi.nlm.nih.gov/pubmed/21731062) - Meta-analysis of seven studies of salt restriction.  *" there is still insufficient power to exclude clinically important effects of reduced dietary salt on mortality or CVD morbidity."*  If you're worried about it, talk to a doc, but [there isn't much to worry about](http://www.scientificamerican.com/article/its-time-to-end-the-war-on-salt/).
+* <div class="anchor" id="saltheartdisease"></div> [Reduced dietary salt for the prevention of cardiovascular disease: a meta-analysis...](http://www.ncbi.nlm.nih.gov/pubmed/21731062) - Meta-analysis of seven studies of salt restriction.  *" there is still insufficient power to exclude clinically important effects of reduced dietary salt on mortality or CVD morbidity."*  If you're worried about it, talk to a doc, but [there isn't much to worry about](http://www.scientificamerican.com/article/its-time-to-end-the-war-on-salt/).
 
-* [Can’t wait to lose weight? Characterizing temporal discounting parameters for weight-loss](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277731/) - Study of tendency of overweight subjects to value small weight losses over a short term more than larger weight losses over a long term (i.e. "lose X lbs today, or Y lbs over Z weeks").  *'...people who express a desire to lose less weight sooner, showed stronger beliefs that obesity is under an individual’s control and obesity is due to a lack of “willpower.”'*
+* <div class="anchor" id="temporaldiscounting"></div> [Can't wait to lose weight? Characterizing temporal discounting parameters for weight-loss](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4277731/) - Study of tendency of overweight subjects to value small weight losses over a short term more than larger weight losses over a long term (i.e. "lose X lbs today, or Y lbs over Z weeks").  *'...people who express a desire to lose less weight sooner, showed stronger beliefs that obesity is under an individual's control and obesity is due to a lack of "willpower."'*
 
-* [Seinfeld's "Don't Break the Chain!" philosophy](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+* <div class="anchor" id="seinfeld"></div> [Seinfeld's "Don't Break the Chain!" philosophy](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 
-* [Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults](http://www.ncbi.nlm.nih.gov/pubmed/15883556) - a review of predictive equations for BMR/RMR.  *"The Mifflin-St Jeor equation is more likely than the other equations tested to estimate RMR to within 10% of that measured"*
+* <div class="anchor" id="REEcomparison"></div> [Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults](http://www.ncbi.nlm.nih.gov/pubmed/15883556) - a review of predictive equations for BMR/RMR.  *"The Mifflin-St Jeor equation is more likely than the other equations tested to estimate RMR to within 10% of that measured"*
 
-* ["You are eating more than you think"](https://www.youtube.com/watch?v=vjKPIcI51lU) - video demonstration of the large estimation error that is possible when not using a food scale
+* <div class="anchor" id="eatingmorethanyouthink"></div> ["You are eating more than you think"](https://www.youtube.com/watch?v=vjKPIcI51lU) - video demonstration of the large estimation error that is possible when not using a food scale
 
-* ["Which Diet Will Help You Lose The Most Weight?"](https://fivethirtyeight.com/features/which-diet-will-help-you-lose-the-most-weight/) - fivethirtyeight summary of [JAMA article](http://jama.jamanetwork.com/article.aspx?articleid=1900510), which concludes *"Weight loss differences between individual named diets were small. This supports the practice of recommending any diet that a patient will adhere to in order to lose weight."*
+* <div class="anchor" id="whichdiet"></div> ["Which Diet Will Help You Lose The Most Weight?"](https://fivethirtyeight.com/features/which-diet-will-help-you-lose-the-most-weight/) - fivethirtyeight summary of [JAMA article](http://jama.jamanetwork.com/article.aspx?articleid=1900510), which concludes *"Weight loss differences between individual named diets were small. This supports the practice of recommending any diet that a patient will adhere to in order to lose weight."*
 
-* ["The Effects of Exercise Training in Addition to Energy Restriction on Functional Capacities and Body Composition in Obese Adults during Weight Loss"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3884087/) - Large meta-analysis of multiple studies, see **Table 6** for a summary of body composition changes across each type, showing that **lean mass decreases with caloric restriction, i.e. eating a deficit necessarily causes muscle loss to some extent**.  Contains supporting evidence for exercise regimens helping reduce the lean tissue loss.
+* <div class="anchor" id="muscleloss"></div> ["The Effects of Exercise Training in Addition to Energy Restriction on Functional Capacities and Body Composition in Obese Adults during Weight Loss"](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3884087/) - Large meta-analysis of multiple studies, see **Table 6** for a summary of body composition changes across each type, showing that **lean mass decreases with caloric restriction, i.e. eating a deficit necessarily causes muscle loss to some extent**.  Contains supporting evidence for exercise regimens helping reduce the lean tissue loss.
 
-* ["Can you actually break your metabolism?"](https://www.reddit.com/r/fatlogic/comments/2i6oa3/can_you_actually_break_your_metabolism/ckzboth) - /u/tahlyn responds to this inquiry with MANY excellent references for supporting evidence that underestimating intake is the primary cause of apparently anomalous metabolisms.
+* <div class="anchor" id="breakmetabolism"></div> ["Can you actually break your metabolism?"](https://www.reddit.com/r/fatlogic/comments/2i6oa3/can_you_actually_break_your_metabolism/ckzboth) - /u/tahlyn responds to this inquiry with MANY excellent references for supporting evidence that underestimating intake is the primary cause of apparently anomalous metabolisms.
 
-* ["Energy intake and energy expenditure: a controlled study comparing dietitians and non-dietitians."](http://www.ncbi.nlm.nih.gov/pubmed/12396160) - small (N=20) study comparing 7-day food records of a group of dietitians against a group of non-dietitians.  *"The dietitians underreported their energy intake obtained from the food records by an average of 223 +/- 116 kcal/day."*
+* <div class="anchor" id="cantcount"></div> ["Energy intake and energy expenditure: a controlled study comparing dietitians and non-dietitians."](http://www.ncbi.nlm.nih.gov/pubmed/12396160) - small (N=20) study comparing 7-day food records of a group of dietitians against a group of non-dietitians.  *"The dietitians underreported their energy intake obtained from the food records by an average of 223 +/- 116 kcal/day."*
 
-* ["How I Recovered From Binge Eating Disorder (Guide)"](https://www.reddit.com/r/loseit/comments/4iqe36/how_i_recovered_from_binge_eating_disorder_guide/) - Reddit user /u/MBDDigital shares some tips and philosophy for tackling binge/emotional eating.
+* <div class="anchor" id="bingeeating"></div> ["How I Recovered From Binge Eating Disorder (Guide)"](https://www.reddit.com/r/loseit/comments/4iqe36/how_i_recovered_from_binge_eating_disorder_guide/) - Reddit user /u/MBDDigital shares some tips and philosophy for tackling binge/emotional eating.
 
-* [Walking doesn't burn enough calories to bother counting](https://www.ncbi.nlm.nih.gov/pubmed/15570150)
+* <div class="anchor" id="walkingburn"></div> [Walking doesn't burn enough calories to bother counting](https://www.ncbi.nlm.nih.gov/pubmed/15570150)
 
-* Neither does most exercise: 
-    * "We...examined the effects of exercise training upon REE during the rehabilitation of severely burned pediatric patients...Exercise training...[[did not cause] exaberation of post-burn hypermetabolism."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856323/) 
-    * ["*Results indicated that exercise modality had no effect on REE.*"](https://www.ncbi.nlm.nih.gov/pubmed/7882110)
+* <div class="anchor" id="exerciseburn"></div> Neither does most exercise: 
+    * "We...examined the effects of exercise training upon REE during the rehabilitation of severely burned pediatric patients...Exercise training...[did not cause] exaberation of post-burn hypermetabolism."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3856323/) 
+    *["*Results indicated that exercise modality had no effect on REE.*"](https://www.ncbi.nlm.nih.gov/pubmed/7882110)
 
+<<<<<<< Updated upstream:index.md
 * Long-term metabolic activity is not substantially affected by exercise[*"No change in physical activity energy expenditure was found in any of the groups. These results suggest that endurance and resistance training does not chronically alter TEE"*](http://press.endocrine.org/doi/abs/10.1210/jcem.87.3.8282)
 
 * [Meal frequency and energy balance](https://www.ncbi.nlm.nih.gov/pubmed/9155494) - *"We conclude that there is robust evidence from several independent laboratories...[that] feeding frequency has no significant impact on the rate of weight loss during energy restriction."*  Also shows clear strong correlation between meal frequency and total daily intake.
@@ -90,3 +96,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 * [Effect of dietary adherence on the body weight plateau: a mathematical model incorporating intermittent compliance with energy intake prescription](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135489/) - A study of how dynamically intermittent adherence to an energy difference alters progress. *"The intermittent lack-of-adherence model generated oscillating weight graphs that have been frequently observed in weight-loss studies."*
 
 * [Carbohydrate Consumption and Fatigue](http://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1011&context=njph) - *"Though the findings of the studies reviewed vary, the preponderance demonstrated a positive relationship between simple carbohydrate consumption and fatigue...Additionally, a ketogenic (very low carbohydrate) diet tended to increase the feeling of fatigue and a calorie restricted diet tended to decrease fatigue with no difference between high and low glycemic diets."*  **"Although the majority of the studies reviewed demonstrate an improvement in fatigue with a diet low in simple carbohydrates, there is *relatively little research* specifically focused on the impact of carbohydrate consumption on fatigue."** In short: YMMV, try varying your carb intake and see how you feel.
+=======
+* <div class="anchor" id="exerciseandmetabolism"></div> Long-term metabolic activity is not substantially affected by exercise - [*"No change in physical activity energy expenditure was found in any of the groups. These results suggest that endurance and resistance training does not chronically alter TEE"*](http://press.endocrine.org/doi/abs/10.1210/jcem.87.3.8282)
