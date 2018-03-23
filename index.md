@@ -101,3 +101,8 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 
 * <div class="anchor" id="nationalweightregistryvid"></div>[National Weight Control Registry: Common Behaviors in Weight Maintenance](https://www.youtube.com/watch?v=8kNcaESoDng) - A video on how most people need to add in some sort of exercise to assist with maintaining their weight loss. A very good watch.
 
+<!--
+links from grym:
+- "chronic exercise preserves lean muscle mass in masters athletes" (see Fig. 1) https://www.linsladephysiotherapy.co.uk/physio4u/wp-content/uploads/2014/07/rpsm.2011.09.1933_secure.pdf
+- "Can We Say What Diet Is Best for Health?" tl;dr nope not really http://www.annualreviews.org/doi/full/10.1146/annurev-publhealth-032013-182351
+-->
