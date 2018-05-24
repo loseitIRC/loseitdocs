@@ -105,4 +105,5 @@ Want to contribute?  [Fork this site on GitHub](https://github.com/loseitIRC/los
 links from grym:
 - "chronic exercise preserves lean muscle mass in masters athletes" (see Fig. 1) https://www.linsladephysiotherapy.co.uk/physio4u/wp-content/uploads/2014/07/rpsm.2011.09.1933_secure.pdf
 - "Can We Say What Diet Is Best for Health?" tl;dr nope not really http://www.annualreviews.org/doi/full/10.1146/annurev-publhealth-032013-182351
+- "When somebody loses weight, where does the fat go?" https://www.bmj.com/content/349/bmj.g7257
 -->
